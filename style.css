@@ -208,6 +208,10 @@ span.dropdown{
         height: 505px;
        
     }
+    .img-holder4 {
+        text-align: center;
+
+    }
     
     .img-holder3 img {
         width: 360px;
@@ -325,6 +329,11 @@ span.dropdown{
     }
     .img-holder3 {
         text-align: center;
+    }
+    
+    .img-holder4 {
+        text-align: center;
+
     }
     .img-holder1 img{
         display: flex;
