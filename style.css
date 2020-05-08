@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow-x: hidden;
+    
    
 }
 
@@ -22,7 +22,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    text-align: center;
+        text-align: center;
 }
 
 .logo img {
@@ -167,7 +167,7 @@ span.dropdown{
 }
 
 .img-holder4 img {
-    width: 400px;
+    width: 100%;
     height: 505px;
   
 }
