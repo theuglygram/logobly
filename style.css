@@ -280,8 +280,8 @@ span.dropdown{
         padding: 0;
         width: 200px;   
         background: #cccccc;
-        transform: translateY(35%);
         -webkit-transform: translateY(35%);
+        transform: translateY(35%);
     }
 
     ul.links li{
